@@ -7,6 +7,7 @@ module.exports = {
     'prettier/prettier': 'warn',
     'arrow-body-style': 'off',
     'prefer-arrow-callback': 'off',
+    curly: 'warn',
   },
   overrides: [
     {
